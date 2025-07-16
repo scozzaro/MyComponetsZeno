@@ -1,5 +1,6 @@
 
-🚀 TMyCustomStatusBar Componente Delphi
+**🚀 TMyCustomStatusBar Componente Delphi**
+
 TMyCustomStatusBar è un componente Delphi personalizzato progettato per offrire una barra di stato più flessibile e funzionale rispetto al TStatusBar standard di VCL. Permette la creazione di pannelli dinamici con testo, immagini, allineamento personalizzato, colori di sfondo individuali e un'originale grip ridimensionabile a forma di triangolo con cerchi.
 
 ✨ Caratteristiche Principali
@@ -97,19 +98,8 @@ Nell'Object Inspector, vai alla scheda Events.
 Trova l'evento OnPanelClick e fai doppio click per creare una procedura evento.
 
 Questa procedura riceverà Sender: TObject (il componente TMyCustomStatusBar) e PanelIndex: Integer (l'indice del pannello cliccato).
+ 
 
-Esempio:
-
-Snippet di codice
-
-procedure TForm1.MyCustomStatusBar1PanelClick(Sender: TObject; PanelIndex: Integer);
-begin
-  ShowMessage('Hai cliccato sul pannello numero ' + IntToStr(PanelIndex));
-  // Puoi accedere al pannello specifico:
-  // var Panel: TMyCustomStatusBarPanel;
-  // Panel := TMyCustomStatusBar(Sender).Panels[PanelIndex];
-  // ShowMessage('Testo del pannello: ' + Panel.Text);
-end;
 🎨 Personalizzazione della Grip (Sviluppatori)
 La SizeGrip è disegnata direttamente nel metodo Paint del componente. Se desideri modificarne l'aspetto (ad esempio, la dimensione o il colore dei cerchi, o il pattern), puoi intervenire direttamente nel codice sorgente:
 
