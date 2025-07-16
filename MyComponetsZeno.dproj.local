@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/10 13:07:52.000.122,D:\Delphi\Vlc-Rio-28\FxLib\MyEditDB.dproj=D:\Delphi\Vlc-Rio-28\FxLib\FxPackLib.dproj</Transaction>
+    <Transaction>2024/03/10 13:08:04.000.278,D:\Delphi\Vlc-Rio-28\FxLib\DelphiTWain\DelphiTwain.pas=</Transaction>
+    <Transaction>2024/03/10 13:08:09.000.325,D:\Delphi\Vlc-Rio-28\FxLib\MyDbEdit\MyDbEdit.pas=</Transaction>
+    <Transaction>2024/03/10 13:08:17.000.997,D:\Delphi\Vlc-Rio-28\FxLib\zHint\zhint.pas=</Transaction>
+    <Transaction>2024/03/10 13:09:40.000.966,D:\Delphi\Vlc-Rio-28\FxLib\FxNetscapeLDB.pas=</Transaction>
+    <Transaction>2024/03/10 13:09:40.000.950,D:\Delphi\Vlc-Rio-28\FxLib\FxCollapsePanel.pas=</Transaction>
+    <Transaction>2024/03/10 13:09:52.000.747,D:\Delphi\Vlc-Rio-28\FxLib\JimZoomImage\JimZoomDbImage.pas=</Transaction>
+    <Transaction>2024/03/10 13:10:05.000.637,=D:\Delphi\Vlc-Rio-28\FxLib\MyDbEdit\MyDbEdit.pas</Transaction>
+    <Transaction>2025/07/09 19:27:54.000.903,=C:\delphi\VLC29\FxLib\MyDbEdit\uScalerComponent.pas</Transaction>
+    <Transaction>2025/07/09 19:34:54.000.676,=Ballon.dcp</Transaction>
+    <Transaction>2025/07/09 19:34:54.000.723,=gaesoft.dcp</Transaction>
+    <Transaction>2025/07/11 19:26:46.000.248,=C:\delphi\VLC29\FxLib\Unit1.pas</Transaction>
+    <Transaction>2025/07/11 19:27:14.000.193,C:\delphi\VLC29\FxLib\MyDbEdit\CustomStatusBar.pas=C:\delphi\VLC29\FxLib\Unit1.pas</Transaction>
+    <Transaction>2025/07/12 14:12:33.000.584,=C:\delphi\VLC29\FxLib\MyDbEdit\CustomStatusBarReg.pas</Transaction>
+    <Transaction>2025/07/15 15:47:13.000.691,=D:\Delphi\VLC29\FxLib\MyDbEdit\Scalezoom.bmp</Transaction>
+    <Transaction>2025/07/16 15:50:54.000.744,=D:\Delphi\VLC29\FxLib\FxNetscapeLDB.pas</Transaction>
+    <Transaction>2025/07/16 15:55:02.000.913,D:\Delphi\VLC29\FxLib\FxNetscapeLDB.pas=</Transaction>
+    <Transaction>2025/07/16 16:06:22.000.124,=D:\Delphi\VLC29\FxLib\Unit2.pas</Transaction>
+    <Transaction>2025/07/16 16:06:50.000.426,D:\Delphi\VLC29\FxLib\MyDbEdit\MyAlignEditor.pas=D:\Delphi\VLC29\FxLib\Unit2.pas</Transaction>
+    <Transaction>2025/07/16 16:09:57.000.459,D:\Delphi\VLC29\FxLib\MyDbEdit\MyAlignEditor.pas=</Transaction>
+    <Transaction>2025/07/16 17:46:57.000.160,D:\Delphi\VLC29\FxLib\MyEditDB.dproj=D:\Delphi\VLC29\FxLib\MyComponetsZeno.dproj</Transaction>
+    <Transaction>2025/07/16 18:11:19.658,D:\Delphi\VLC29\FxLib\MyDbEdit\MyComponetsZeno.dproj=D:\Delphi\VLC29\FxLib\MyComponetsZeno.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

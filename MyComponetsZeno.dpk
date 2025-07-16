@@ -1,0 +1,49 @@
+package MyComponetsZeno;
+
+{$R *.res}
+{$R 'MyDbEdit.dcr'}
+{$R 'uScalerComponent.dcr'}
+{$R *.dres}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$DEFINITIONINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$DESCRIPTION 'FxPack by Enzo Scozzaro'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  dbrtl,
+  vcldb,
+  vclimg,
+  Ballon,
+  gaesoft;
+
+contains
+  MyDbEdit in 'MyDbEdit.pas',
+  uScalerComponent in 'uScalerComponent.pas',
+  CustomStatusBar in 'CustomStatusBar.pas',
+  CustomStatusBarReg in 'CustomStatusBarReg.pas';
+
+end.
